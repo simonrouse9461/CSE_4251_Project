@@ -1,0 +1,23 @@
+Jun 05 th 2015 - Top 20 words - Tech blogs and reporters twitter messages
+Top words           Frequency    Percentage
+------------------- ------------ ----------
+app                 4            1.88%
+pebble              3            1.41%
+apple               3            1.41%
+windows             2            0.94%
+whats               2            0.94%
+using               2            0.94%
+time                2            0.94%
+these               2            0.94%
+store               2            0.94%
+still               2            0.94%
+smilde              2            0.94%
+out                 2            0.94%
+iphone              2            0.94%
+indoors             2            0.94%
+image               2            0.94%
+how                 2            0.94%
+heres               2            0.94%
+create              2            0.94%
+berndnaut           2            0.94%
+artist              2            0.94%

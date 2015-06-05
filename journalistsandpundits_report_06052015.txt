@@ -1,0 +1,23 @@
+Jun 05 th 2015 - Top 20 words - Journalists and pundits twitter messages
+Top words           Frequency    Percentage
+------------------- ------------ ----------
+would               3            1.07%
+like                3            1.07%
+dont                3            1.07%
+work                2            0.71%
+who                 2            0.71%
+what                2            0.71%
+was                 2            0.71%
+these               2            0.71%
+national            2            0.71%
+know                2            0.71%
+just                2            0.71%
+how                 2            0.71%
+doughnut            2            0.71%
+day                 2            0.71%
+but                 2            0.71%
+benefit             2            0.71%
+youve               1            0.36%
+yearold             1            0.36%
+wwi                 1            0.36%
+wow                 1            0.36%

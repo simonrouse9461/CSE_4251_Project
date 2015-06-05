@@ -1,0 +1,23 @@
+Jun 05 th 2015 - Top 20 words - Comedians, writers and late-night hosts twitter messages
+Top words           Frequency    Percentage
+------------------- ------------ ----------
+waiting             2            1.05%
+sdrr                2            1.05%
+note                2            1.05%
+more                2            1.05%
+im                  2            1.05%
+from                2            1.05%
+end                 2            1.05%
+afi                 2            1.05%
+yesterday           1            0.53%
+wrong               1            0.53%
+worry               1            0.53%
+work                1            0.53%
+what                1            0.53%
+watching            1            0.53%
+version             1            0.53%
+tonight             1            0.53%
+today               1            0.53%
+time                1            0.53%
+tiger               1            0.53%
+tie                 1            0.53%

@@ -1,0 +1,23 @@
+Jun 05 th 2015 - Top 20 words - Science news and journalists twitter messages
+Top words           Frequency    Percentage
+------------------- ------------ ----------
+new                 3            1.31%
+nationaldonutday    3            1.31%
+yet                 2            0.87%
+space               2            0.87%
+some                2            0.87%
+seven               2            0.87%
+see                 2            0.87%
+planet              2            0.87%
+more                2            0.87%
+get                 2            0.87%
+from                2            0.87%
+doughnut            2            0.87%
+details             2            0.87%
+yrs                 1            0.44%
+worldenvironmentday 1            0.44%
+world               1            0.44%
+weekend             1            0.44%
+way                 1            0.44%
+warming             1            0.44%
+war                 1            0.44%

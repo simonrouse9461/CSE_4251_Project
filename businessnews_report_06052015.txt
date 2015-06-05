@@ -1,0 +1,23 @@
+Jun 05 th 2015 - Top 20 words - Business news twitter messages
+Top words           Frequency    Percentage
+------------------- ------------ ----------
+have                4            1.75%
+year                2            0.88%
+what                2            0.88%
+water               2            0.88%
+today               2            0.88%
+source              2            0.88%
+overtaken           2            0.88%
+opec                2            0.88%
+oil                 2            0.88%
+new                 2            0.88%
+nationaldonutday    2            0.88%
+more                2            0.88%
+migrants            2            0.88%
+mexico              2            0.88%
+jobs                2            0.88%
+india               2            0.88%
+has                 2            0.88%
+free                2            0.88%
+donut               2            0.88%
+china               2            0.88%

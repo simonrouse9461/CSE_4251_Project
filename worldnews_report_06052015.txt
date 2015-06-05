@@ -1,0 +1,23 @@
+Jun 05 th 2015 - Top 20 words - World news twitter messages
+Top words           Frequency    Percentage
+------------------- ------------ ----------
+photos              3            1.35%
+piggy               2            0.90%
+more                2            0.90%
+miss                2            0.90%
+mexico              2            0.90%
+kurdish             2            0.90%
+have                2            0.90%
+fight               2            0.90%
+feminist            2            0.90%
+election            2            0.90%
+china               2            0.90%
+year                1            0.45%
+x                   1            0.45%
+world               1            0.45%
+women               1            0.45%
+why                 1            0.45%
+white               1            0.45%
+while               1            0.45%
+which               1            0.45%
+where               1            0.45%

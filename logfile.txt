@@ -1,0 +1,15 @@
+twitter messages capture log
+Date                Location                                  File name     File size
+------------------- ----------------------------------------- ------------- ---------
+2015-06-05 15:46:37 https://twitter.com/i/streams/stream/25   twitter.html  246811    
+2015-06-05 16:25:18 https://twitter.com/i/streams/stream/25   twitter.html  241241   
+2015-06-05 16:26:21 https://twitter.com/i/streams/stream/25   twitter.html  246906   
+2015-06-05 16:27:05 https://twitter.com/i/streams/stream/25   twitter.html  246906   
+2015-06-05 16:27:24 https://twitter.com/i/streams/stream/25   twitter.html  247109   
+2015-06-05 16:27:56 https://twitter.com/i/streams/stream/24   twitter.html  245152   
+2015-06-05 16:28:07 https://twitter.com/i/streams/stream/30   twitter.html  244154   
+2015-06-05 16:30:48 https://twitter.com/i/streams/stream/28   twitter.html  246937   
+2015-06-05 17:16:33 https://twitter.com/i/streams/stream/28   twitter.html  246612   
+2015-06-05 17:18:16 http://google.com/                        twitter.html           
+2015-06-05 17:18:40 https://twitter.com/i/streams/stream/46   twitter.html  242339   
+2015-06-05 17:19:59 https://twitter.com/i/streams/stream/46   twitter.html  247314   
