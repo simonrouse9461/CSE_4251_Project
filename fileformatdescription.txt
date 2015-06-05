@@ -1,0 +1,8 @@
+There are 6 categories of files in the project folder
+
+1: The main program file, named whatisontwitte.sh, which is a tcsh shell script.
+2: The log file, named logfile.txt, which stores the whole history of the program execution.
+3: The link file, named savedlinks.txt, which stores user entered links.
+4: The word filter file, named excludingwords.txt, which contains excluded word
+5: The message record files, each of them stores one record of a previous search.
+6: The report files, each of them stores a statistic of a coresponding message record.

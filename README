@@ -1,0 +1,13 @@
+Name: Chuhan Feng
+Course: CSE 4251
+Instructor: Leon Madrid
+Final Project
+
+The program can be run by typing the command "whatisontwitte.sh"
+When enter the program, you have 6 options:
+q: Quit program
+e: Enter new URL
+u: Use saved URL
+a: Add ignored words
+s: Show logfile
+g: Generate summary report

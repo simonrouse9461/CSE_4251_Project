@@ -11,24 +11,24 @@ setenv filterfile 'excludingwords.txt'
 begin:
 echo
 echo 'Welcome! Please select from options below:'
-echo '|- 0: Quit program'
-echo '|- 1: Enter new URL'
-echo '|- 2: Use saved URL'
-echo '|- 3: Add ignored words'
-echo '|- 4: Show logfile'
-echo '|- 5: Generate summary report'
+echo '|- q: Quit program'
+echo '|- e: Enter new URL'
+echo '|- u: Use saved URL'
+echo '|- a: Add ignored words'
+echo '|- s: Show logfile'
+echo '|- g: Generate summary report'
 reenter:
 echo
 echo -n '>> '
 set option = $<
 
 switch ($option)
-	case 0:
+	case q:
 		echo 'Exit program...'
 		# remove buffers
 		rm -f $file_buffer $log_buffer $message_buffer $report_buffer
 		exit
-	case 1:
+	case e:
 		# read in link and save to link file
 		echo 'Enter twitter link: '
 		echo
@@ -44,7 +44,7 @@ switch ($option)
 			echo $url > $linkfile
 		endif
 		goto scrape
-	case 2:
+	case u:
 		# get saved link
 		echo 'Select a saved URL below:'
 		echo '|- 0: Abort!'
@@ -67,7 +67,7 @@ retry:
 		endif
 		set url = `cat $linkfile | sed -n $line'p'`
 		goto scrape
-	case 3:
+	case a:
 		# read in ingnored words
 		echo 'Enter words to be ignored: '
 		echo
@@ -76,11 +76,11 @@ retry:
 		touch $filterfile
 		echo $ignore >> $filterfile
 		goto begin
-	case 4:
+	case s:
 		# show logfile
 		cat $logfile
 		goto begin
-	case 5:
+	case g:
 		# generate message summary file
 		set file_list = `ls *[0-9]*.txt | sed 's/_report_/_/g' | uniq`
 		if (-e $message_buffer) then
